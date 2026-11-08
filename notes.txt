@@ -1,1 +1,2 @@
 todo: more frames
+fix hat
